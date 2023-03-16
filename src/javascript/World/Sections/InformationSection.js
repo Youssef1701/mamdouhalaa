@@ -103,11 +103,11 @@ export default class InformationSection {
           this.resources.items.informationContactTwitterLabelTexture,
       },
       {
-        href: "",
+        href: "https://github.com/Mamdouh1234",
         labelTexture: this.resources.items.informationContactGithubLabelTexture,
       },
       {
-        href: "https://www.linkedin.com/in/youssef-ehab-92b9791a2/",
+        href: "www.linkedin.com/in/mamdouh-alaa-627404188",
         labelTexture:
           this.resources.items.informationContactLinkedinLabelTexture,
       },
